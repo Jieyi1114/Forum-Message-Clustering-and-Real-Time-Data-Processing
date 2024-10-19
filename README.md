@@ -1,4 +1,4 @@
-This project involved developing a system for clustering forum messages using web scraping, data preprocessing, and clustering algorithms. 
+This project involved developing a system for clustering forum messages on Reddit using web scraping, data preprocessing, and clustering algorithms. 
 The key components of the project included extracting messages from online forums, converting them into vector representations using Doc2Vec, and applying clustering algorithms to group similar messages based on keywords. 
 Additionally, the system automates the data collection, processing, and storage at fixed intervals (specified by users), ensuring real-time database updates. 
 A command-line interface allows users to input keywords or messages to find the closest matching cluster, with visualizations provided to display cluster contents.
